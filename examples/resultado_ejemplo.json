@@ -1,0 +1,50 @@
+{
+  "183.62.140.253": {
+    "failures": 286,
+    "distinct_users": 10,
+    "first_seen": "2024-12-10T10:54:29",
+    "last_seen": "2024-12-10T11:04:43",
+    "attack_type": "Diccionario de usuarios (spraying)",
+    "compromised": []
+  },
+  "187.141.143.180": {
+    "failures": 80,
+    "distinct_users": 28,
+    "first_seen": "2024-12-10T09:12:48",
+    "last_seen": "2024-12-10T09:20:02",
+    "attack_type": "Diccionario de usuarios (spraying)",
+    "compromised": []
+  },
+  "103.99.0.122": {
+    "failures": 46,
+    "distinct_users": 19,
+    "first_seen": "2024-12-10T09:11:21",
+    "last_seen": "2024-12-10T11:04:45",
+    "attack_type": "Diccionario de usuarios (spraying)",
+    "compromised": []
+  },
+  "112.95.230.3": {
+    "failures": 26,
+    "distinct_users": 3,
+    "first_seen": "2024-12-10T07:27:52",
+    "last_seen": "2024-12-10T07:28:51",
+    "attack_type": "Pocos usuarios",
+    "compromised": []
+  },
+  "5.188.10.180": {
+    "failures": 18,
+    "distinct_users": 7,
+    "first_seen": "2024-12-10T08:24:35",
+    "last_seen": "2024-12-10T08:26:24",
+    "attack_type": "Diccionario de usuarios (spraying)",
+    "compromised": []
+  },
+  "185.190.58.151": {
+    "failures": 17,
+    "distinct_users": 3,
+    "first_seen": "2024-12-10T09:07:58",
+    "last_seen": "2024-12-10T09:12:59",
+    "attack_type": "Pocos usuarios",
+    "compromised": []
+  }
+}
