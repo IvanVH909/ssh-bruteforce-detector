@@ -1,4 +1,4 @@
-# 🔐 ssh-bruteforce-detector
+# ssh-bruteforce-detector
 
 Script en Python (sin dependencias) que analiza un log de **OpenSSH** y genera un informe en Markdown con:
 
